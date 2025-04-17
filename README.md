@@ -2,7 +2,7 @@
 
 This project implements a real-time, GPU-accelerated computer vision pipeline for cone detection in autonomous driving scenarios. It runs on the AMD Kria KV260 board using OpenCV and OpenCL, and is optimized to detect and label cones with high accuracy under resource-constrained embedded environments.
 
-##?? Project Overview
+## Project Overview
 
 Cone detection is critical in applications such as autonomous racing and navigation. Traditional CPU or FPGA-based systems often fall short in terms of flexibility, ease of development, and real-time performance. This project addresses those limitations by:
 - Leveraging the embedded **ARM Mali GPU** on the **AMD Kria KV260** board
