@@ -1,8 +1,0 @@
-RUN COMMANDS
-
-FOR GPU: 
-python cone_hsv.py data --use_gpu 
-
-
-FOR CPU: 
-python cone_hsv.py data 
